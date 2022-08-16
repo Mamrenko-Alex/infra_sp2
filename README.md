@@ -25,7 +25,7 @@
 
 $ git clone git@github.com:earlinn/infra_sp2.git
 $ cd infra_sp2
-$ python -m venv venv
+$ python -m venv venv 
 $ venv/Scripts/activate
 $ python -m pip install --upgrade pip
 
